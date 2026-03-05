@@ -73,7 +73,7 @@ onelake-catalog-integration-setup/
 
 ## Development Notes
 
-This skill was developed through a hands-on run-through documented in `DIARY.md`. Key learnings:
+Key learnings from development:
 
 - Azure Storage permission must be from "Microsoft APIs" tab, not "APIs my organization uses"
 - External volume always required (OneLake doesn't support vended credentials)
